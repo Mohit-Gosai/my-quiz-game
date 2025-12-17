@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["London", "Paris", "Berlin", "Madrid"],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Jane Austen", "William Shakespeare", "Charles Dickens", "Mark Twain"],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "What year did the Titanic sink?",
+    "options": ["1912", "1920", "1905", "1915"],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "Which country is the Statue of Liberty located in?",
+    "options": ["Canada", "USA", "France", "Mexico"],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "What is the most spoken language in the world?",
+    "options": ["Spanish", "English", "Mandarin Chinese", "Hindi"],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "question": "How many strings does a violin have?",
+    "options": ["4", "5", "6", "8"],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "question": "What is the speed of light?",
+    "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": 13,
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "What is the capital of Japan?",
+    "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "In what year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "What is the chemical formula for sulfuric acid?",
+    "options": ["H2SO3", "H2SO4", "H3SO4", "HS04"],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": 17,
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 18,
+    "question": "What is the Heisenberg Uncertainty Principle?",
+    "options": ["Cannot determine position and momentum simultaneously", "Energy equals mass times speed squared", "Light behaves as both particle and wave", "Matter cannot be created or destroyed"],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": 19,
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Brazil", "China", "UK", "Japan"],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "question": "What is the second largest country by area?",
+    "options": ["Russia", "Canada", "China", "United States"],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": 23,
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Argon", "Carbon Dioxide"],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "question": "Who wrote '1984'?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Isaac Asimov"],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "What is the only mammal that cannot jump?",
+    "options": ["Elephant", "Hippopotamus", "Giraffe", "Rhinoceros"],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "How many bones are in the human body?",
+    "options": ["186", "206", "226", "246"],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "What does DNA stand for?",
+    "options": ["Deoxyribonucleic Acid", "Diribonucleic Acid", "Deoxyribose Nucleic Acid", "Deoxyribonuclein Acid"],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "What is the name of the first moon landing mission?",
+    "options": ["Gemini 11", "Skylab 1", "Apollo 11", "Mercury 7"],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "question": "What year did the Titanic sink?",
+    "options": ["1910", "1911", "1912", "1913"],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "question": "Who discovered penicillin?",
+    "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Jonas Salk"],
+    "correct": 1,
+    "difficulty": "hard"
+  }
+]
