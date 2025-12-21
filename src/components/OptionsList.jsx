@@ -10,13 +10,12 @@ export default function OptionsList({
       {options.map((opt, i) => (
         <li
           key={i}
-          className={`option ${
-            selected === i
+          className={`option ${selected === i
               ? i === correct
                 ? "correct"
                 : "incorrect"
               : ""
-          } ${answered && i === correct ? "correct" : ""}`}
+            } ${answered && i === correct ? "correct" : ""}`}
           onClick={() => onSelect(i)}
         >
           {opt}
